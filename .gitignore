@@ -1,0 +1,8 @@
+pokedexcli
+*.exe
+
+*.log
+
+.env
+.env.*
+!.env.example
